@@ -1,0 +1,7 @@
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\10. CiclosWhile\10. CiclosWhile\bin\Debug\_10.CiclosWhile.exe.config
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\10. CiclosWhile\10. CiclosWhile\bin\Debug\_10.CiclosWhile.exe
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\10. CiclosWhile\10. CiclosWhile\bin\Debug\_10.CiclosWhile.pdb
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\10. CiclosWhile\10. CiclosWhile\obj\Debug\10. CiclosWhile.csproj.AssemblyReference.cache
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\10. CiclosWhile\10. CiclosWhile\obj\Debug\10. CiclosWhile.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\10. CiclosWhile\10. CiclosWhile\obj\Debug\_10.CiclosWhile.exe
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\10. CiclosWhile\10. CiclosWhile\obj\Debug\_10.CiclosWhile.pdb
