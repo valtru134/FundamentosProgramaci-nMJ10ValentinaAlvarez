@@ -1,0 +1,7 @@
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\12. CicloDoWhile\12. CicloDoWhile\obj\Debug\12. CicloDoWhile.csproj.AssemblyReference.cache
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\12. CicloDoWhile\12. CicloDoWhile\obj\Debug\12. CicloDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\12. CicloDoWhile\12. CicloDoWhile\bin\Debug\_12.CicloDoWhile.exe.config
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\12. CicloDoWhile\12. CicloDoWhile\bin\Debug\_12.CicloDoWhile.exe
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\12. CicloDoWhile\12. CicloDoWhile\bin\Debug\_12.CicloDoWhile.pdb
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\12. CicloDoWhile\12. CicloDoWhile\obj\Debug\_12.CicloDoWhile.exe
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\12. CicloDoWhile\12. CicloDoWhile\obj\Debug\_12.CicloDoWhile.pdb
