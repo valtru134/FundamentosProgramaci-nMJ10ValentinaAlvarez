@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\ValentinaAlvarez\FundamentosProgramaci-nMJ10ValentinaAlvarez\TallerVectoressss\TallerVectoressss\bin\Debug\TallerVectoressss.exe.config
+C:\Users\B09S104est\Documents\ValentinaAlvarez\FundamentosProgramaci-nMJ10ValentinaAlvarez\TallerVectoressss\TallerVectoressss\bin\Debug\TallerVectoressss.exe
+C:\Users\B09S104est\Documents\ValentinaAlvarez\FundamentosProgramaci-nMJ10ValentinaAlvarez\TallerVectoressss\TallerVectoressss\bin\Debug\TallerVectoressss.pdb
+C:\Users\B09S104est\Documents\ValentinaAlvarez\FundamentosProgramaci-nMJ10ValentinaAlvarez\TallerVectoressss\TallerVectoressss\obj\Debug\TallerVectoressss.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\ValentinaAlvarez\FundamentosProgramaci-nMJ10ValentinaAlvarez\TallerVectoressss\TallerVectoressss\obj\Debug\TallerVectoressss.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\ValentinaAlvarez\FundamentosProgramaci-nMJ10ValentinaAlvarez\TallerVectoressss\TallerVectoressss\obj\Debug\TallerVectoressss.exe
+C:\Users\B09S104est\Documents\ValentinaAlvarez\FundamentosProgramaci-nMJ10ValentinaAlvarez\TallerVectoressss\TallerVectoressss\obj\Debug\TallerVectoressss.pdb
