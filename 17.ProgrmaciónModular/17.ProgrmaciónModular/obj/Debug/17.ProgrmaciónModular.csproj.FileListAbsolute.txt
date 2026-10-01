@@ -1,0 +1,7 @@
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\17.ProgrmaciónModular\17.ProgrmaciónModular\bin\Debug\17.ProgrmaciónModular.exe.config
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\17.ProgrmaciónModular\17.ProgrmaciónModular\bin\Debug\17.ProgrmaciónModular.exe
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\17.ProgrmaciónModular\17.ProgrmaciónModular\bin\Debug\17.ProgrmaciónModular.pdb
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\17.ProgrmaciónModular\17.ProgrmaciónModular\obj\Debug\17.ProgrmaciónModular.csproj.AssemblyReference.cache
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\17.ProgrmaciónModular\17.ProgrmaciónModular\obj\Debug\17.ProgrmaciónModular.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\17.ProgrmaciónModular\17.ProgrmaciónModular\obj\Debug\17.ProgrmaciónModular.exe
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\17.ProgrmaciónModular\17.ProgrmaciónModular\obj\Debug\17.ProgrmaciónModular.pdb
