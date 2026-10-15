@@ -1,0 +1,7 @@
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\16.Matrices\16.Matrices\bin\Debug\16.Matrices.exe.config
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\16.Matrices\16.Matrices\bin\Debug\16.Matrices.exe
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\16.Matrices\16.Matrices\bin\Debug\16.Matrices.pdb
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\16.Matrices\16.Matrices\obj\Debug\16.Matrices.csproj.AssemblyReference.cache
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\16.Matrices\16.Matrices\obj\Debug\16.Matrices.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\16.Matrices\16.Matrices\obj\Debug\16.Matrices.exe
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\16.Matrices\16.Matrices\obj\Debug\16.Matrices.pdb
