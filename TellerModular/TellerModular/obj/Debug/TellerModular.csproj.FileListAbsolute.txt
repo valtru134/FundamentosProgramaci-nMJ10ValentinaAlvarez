@@ -1,0 +1,7 @@
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\TellerModular\TellerModular\bin\Debug\TellerModular.exe.config
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\TellerModular\TellerModular\bin\Debug\TellerModular.exe
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\TellerModular\TellerModular\bin\Debug\TellerModular.pdb
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\TellerModular\TellerModular\obj\Debug\TellerModular.csproj.AssemblyReference.cache
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\TellerModular\TellerModular\obj\Debug\TellerModular.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\TellerModular\TellerModular\obj\Debug\TellerModular.exe
+C:\Users\valen\Documents\CosasProgramación2026\FundamentosProgramaci-nMJ10ValentinaAlvarez\TellerModular\TellerModular\obj\Debug\TellerModular.pdb
